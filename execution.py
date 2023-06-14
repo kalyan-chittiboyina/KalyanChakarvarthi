@@ -1,3 +1,4 @@
+#testing git
 import logging 
 logging.basicConfig(filename='execution.log', filemode='a', level=logging.DEBUG,format= '[%(asctime)s] {%(pathname)s:%(lineno)d} %(levelname)s - %(message)s',
      datefmt='Date%m-%d-%yTime%H:%M:%S')
