@@ -1,5 +1,29 @@
-[Date06-14-23Time10:42:56] {/Users/kalyanchakravarthi/kalyan/Python/tempCodeRunnerFile.py:13} ERROR - error due to division by zero
+[Date06-14-23Time12:05:02] {/Users/kalyanchakravarthi/python_exceptions/tempCodeRunnerFile.py:16} ERROR - warning name 'b' is not defined
 Traceback (most recent call last):
-  File "/Users/kalyanchakravarthi/kalyan/Python/tempCodeRunnerFile.py", line 6, in <module>
-    1/0
+  File "/Users/kalyanchakravarthi/python_exceptions/tempCodeRunnerFile.py", line 6, in <module>
+    1/b
+NameError: name 'b' is not defined
+[Date06-14-23Time12:05:16] {<stdin>:9} ERROR - error due to division by zero
+Traceback (most recent call last):
+  File "<stdin>", line 2, in <module>
+ZeroDivisionError: division by zero
+[Date06-14-23Time12:16:45] {/Users/kalyanchakravarthi/python_exceptions/function.py:14} ERROR - error due to division by zero
+Traceback (most recent call last):
+  File "/Users/kalyanchakravarthi/python_exceptions/function.py", line 7, in try_except
+    a/b
+ZeroDivisionError: division by zero
+[Date06-14-23Time12:22:16] {/Users/kalyanchakravarthi/python_exceptions/function.py:14} ERROR - error due to division by zero
+Traceback (most recent call last):
+  File "/Users/kalyanchakravarthi/python_exceptions/function.py", line 7, in try_except
+    a/b
+ZeroDivisionError: division by zero
+[Date06-14-23Time12:23:09] {/Users/kalyanchakravarthi/python_exceptions/function.py:14} ERROR - error due to division by zero
+Traceback (most recent call last):
+  File "/Users/kalyanchakravarthi/python_exceptions/function.py", line 7, in try_except
+    a/b
+ZeroDivisionError: division by zero
+[Date06-14-23Time12:23:29] {/Users/kalyanchakravarthi/python_exceptions/function.py:14} ERROR - error due to division by zero
+Traceback (most recent call last):
+  File "/Users/kalyanchakravarthi/python_exceptions/function.py", line 7, in try_except
+    a/b
 ZeroDivisionError: division by zero
